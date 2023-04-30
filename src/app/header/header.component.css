@@ -1,0 +1,13 @@
+.navbar-brand{
+  color: #eaeaea;
+  transition: color .3s;
+}
+.navbar-brand:hover{
+  color: #ffffff;
+}
+.bg-body-tertiary{
+  background-color: cornflowerblue;
+}
+.btns button{
+  margin-right: 12px;
+}
